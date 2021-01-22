@@ -1,0 +1,5 @@
+Flask==1.1.1
+gunicorn==19.9.0
+line-bot-sdk==1.14.0
+BeautifulSoup4 ==4.9.3
+html5lib ==1.1
